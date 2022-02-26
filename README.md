@@ -1,2 +1,1 @@
 # exercice-typescript
-exercice-typescript
